@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-goals-and-performance-flutter",
+  "capabilityKey": "liberusoftware/module-crm-goals-and-performance",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_goals_and_performance_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/goals-and-performance.md",
+  "presentationPlan": "projects/crm/flutter/goals-and-performance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
